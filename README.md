@@ -1,10 +1,10 @@
-## Pokédex
+# Pokédex
 This repository contains a simple web application for searching Pokémon using the PokeAPI.
 
-# Overview
+## Overview
 The application consists of HTML, CSS, and JavaScript files. It fetches Pokémon data from the PokeAPI and allows users to search for Pokémon by name or number.
 
-# Files
+## Files
 index.html: The main HTML file that contains the structure of the application.
 detail.html: The HTML file for displaying detailed information about a Pokémon.
 style.css: The CSS file that styles the application.
@@ -18,7 +18,7 @@ Filtering: Users can filter Pokémon by name or number.
 Clickable Pokémon List: Each Pokémon in the list is clickable and redirects to a detailed page.
 Detailed Pokémon Information: The application provides detailed information about each Pokémon, including its type, weight, height, moves, description, and base stats.
 
-# How to Use
+## How to Use
 To use this application:
 
 Clone the repository to your local machine.
@@ -28,6 +28,6 @@ Use the filter options to filter Pokémon by name or number.
 Click on a Pokémon in the list to view its details.
 On the detail page (detail.html), you can view detailed information about the selected Pokémon.
 
-# Credits
+## Credits
 Pokémon data is fetched from the PokeAPI.
 Pokémon images are sourced from the PokeAPI GitHub repository.
